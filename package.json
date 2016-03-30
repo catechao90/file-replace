@@ -1,0 +1,14 @@
+{
+  "name": "file-replace",
+  "version": "1.0.1",
+  "description": "Replace files in folder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cate <jean.zhao1985@gmail.com> (http://cate.com)",
+  "license": "ISC",
+  "dependencies": {
+    "find": "^0.2.4"
+  }
+}
